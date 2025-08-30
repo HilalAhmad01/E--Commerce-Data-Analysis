@@ -49,7 +49,7 @@ The analysis is divided into three main pages:
 
 ##
 
-#🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 - Google Big Query — Data cleaning & querying.
 
@@ -59,7 +59,7 @@ The analysis is divided into three main pages:
 
 ## 
 
-#📂 Project Workflow
+# 📂 Project Workflow
 
 - Data Collection — Extracted e-commerce data from multiple sources.
 
