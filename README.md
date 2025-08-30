@@ -11,7 +11,7 @@ The goal is to understand how these platforms perform in terms of profitability,
 
 ![Dashboard Screenshot](https://github.com/HilalAhmad01/E--Commerce-Data-Analysis/blob/main/Ecommerce%20Delivery%20Analysis.png)
 
-![Dashboard Screenshot](https://github.com/HilalAhmad01/E--Commerce-Data-Analysis/blob/main/Ecommerce%20Delivery%20Analysis.png)
+![Dashboard Screenshot](https://github.com/HilalAhmad01/E--Commerce-Data-Analysis/blob/main/Ecommerce%20Customer%20Analysis.png)
 
 ## 
 
